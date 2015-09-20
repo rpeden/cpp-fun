@@ -1,0 +1,6 @@
+Debug
+Hello/Debug
+ipch
+*.sdf
+.vs
+*.opensdf
